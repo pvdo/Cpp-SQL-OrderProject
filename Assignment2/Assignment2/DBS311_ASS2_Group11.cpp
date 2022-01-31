@@ -2,10 +2,7 @@
 ----------------ASSIGNMENT 2--------------------------
 * COURSE: DBS311
 * SECTION: NCC
-* GROUP 11
-* NAMES: Luigi Zaccagnini
-*		 Pedro do Carmo
-*		 Shin Taek Lee
+* Pedro do Carmo
 */
 
 
